@@ -1,22 +1,20 @@
 <p align ="center">
-<img src="images/me.png" width="300px">
+<img src="images/me.png" width="250px">
 </p>
 
 <h2 align="center"> Baris Yilmaz</h2>
 
 <img src="images/hrline.png" width="100%"/>
 
-<img align="right" src="images/about.gif" width="450px" />
-
-<h3 align="left">Connect with me: <img src="images/handshake.gif" width="60px"></h3>
-<p align="left">
+<h3 align="center">Connect with me: <img src="images/handshake.gif" width="60px"></h3>
+<p align="center">
 <a href="https://linkedin.com/in/barisben" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="fabricio-cavalcante" height="30" width="40" /></a>
 </p>
 
 <br>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
 <img src="images/network.png" alt="network" width="42"/>
 <img src="images/cisco.png" alt="cisco" width="50" height="33"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
